@@ -9,7 +9,7 @@ public class test {
 		vichles[1]=new Car("别克");
 		vichles[2]=new Bus(34);
 		vichles[3]=new Car("宝马");
-		
+		 
 		customer cu=new customer();
 		System.out.println("您租车的总金额为"+cu.CountTotal(vichles));
 	}
