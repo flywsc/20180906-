@@ -1,18 +1,18 @@
 package myfirst;
 
 public class bird {
-	// 属性是蓝体字，说明是成员变量
-	String wing;// 翅膀
-	String clow;// 爪子
-	String beak;// 喙
-	String yumao;// 羽毛
-	// [权限修饰符][返回值类型]方法名([参数类型 参数名)[throws异常类型]{
-	// 方法体；
-	// return返回值
+	// 灞炴�ф槸钃濅綋瀛楋紝璇存槑鏄垚鍛樺彉閲�
+	String wing;// 缈呰唨
+	String clow;// 鐖瓙
+	String beak;// 鍠�
+	String yumao;// 缇芥瘺
+	// [鏉冮檺淇グ绗[杩斿洖鍊肩被鍨媇鏂规硶鍚�([鍙傛暟绫诲瀷 鍙傛暟鍚�)[throws寮傚父绫诲瀷]{
+	// 鏂规硶浣擄紱
+	// return杩斿洖鍊�
 //}
 	public void fly() {
 		return;
-		//方法可以是1任何类型
-		//如果有返回值一定要有return;但是返回值与开始的声明值要一样
+		//鏂规硶鍙互鏄�1浠讳綍绫诲瀷
+		//濡傛灉鏈夎繑鍥炲�间竴瀹氳鏈塺eturn;浣嗘槸杩斿洖鍊间笌寮�濮嬬殑澹版槑鍊艰涓�鏍�
 	}
 }
