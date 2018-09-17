@@ -20,7 +20,7 @@ public class penguin {
     	this.jk=jk;
     }
     
-	public penguin() {};
+	public   penguin() {};
     public void show() {
 		System.out.println("我的类型是："+pe+"\t昵称是"+nc+"健康值是："+jk+"亲密度是："+qm+"品种是："+xb);
 	}

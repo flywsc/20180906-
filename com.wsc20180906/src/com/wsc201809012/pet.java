@@ -1,6 +1,6 @@
 package com.wsc201809012;
 
-public abstract class pet {
+public abstract class pet implements eat{
 	public int love;
 	public abstract void play();
 	public abstract void fly();

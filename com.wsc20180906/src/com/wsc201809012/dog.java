@@ -1,6 +1,6 @@
 package com.wsc201809012;
 
-public class dog extends pet {
+public class dog extends pet{
 
 
 	public void play() {
@@ -17,4 +17,12 @@ public class dog extends pet {
 		System.out.println("健康值-6");
 	}
 
+
+	@Override
+	public void eat() {
+		// TODO Auto-generated method stub
+		System.out.println("我在吃东西");
+	}
+
 }
+

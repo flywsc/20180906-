@@ -17,4 +17,10 @@ public class cat extends pet {
 		System.out.println("健康值-4");
 	}
 
+	@Override
+	public void eat() {
+		// TODO Auto-generated method stub
+		System.out.println("我在吃东西");
+	}
+
 }
