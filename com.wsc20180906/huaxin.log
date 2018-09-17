@@ -1,0 +1,5 @@
+2018-09-17 11:09:52 com.wsc20180917.teselog4j.main(teselog4j.java:13) teselog4j.java DEBUG 输入被加数
+2018-09-17 11:09:54 com.wsc20180917.teselog4j.main(teselog4j.java:15) teselog4j.java DEBUG 输入加数
+2018-09-17 11:10:20 com.wsc20180917.teselog4j.main(teselog4j.java:13) teselog4j.java DEBUG 输入被加数
+2018-09-17 11:10:21 com.wsc20180917.teselog4j.main(teselog4j.java:15) teselog4j.java DEBUG 输入加数
+2018-09-17 11:10:21 com.wsc20180917.teselog4j.main(teselog4j.java:17) teselog4j.java DEBUG 输出来结果
